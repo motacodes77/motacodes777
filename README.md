@@ -4,6 +4,7 @@
 
 Sou estudante de Ciência da Computação e atuo como freelancer desenvolvendo soluções rápidas e eficientes para negócios reais. Meu foco é tirar ideias do papel e devolver o tempo das pessoas eliminando tarefas manuais e repetitivas.
 
+### 🌐 **Confira meu Portfólio:** [motacodes.netlify.app](https://motacodes.netlify.app)
 ---
 
 ### 🚀 O que eu construo:
@@ -11,7 +12,6 @@ Sou estudante de Ciência da Computação e atuo como freelancer desenvolvendo s
 * **Automações de Processos:** Scripts que cruzam planilhas, disparam alertas e geram relatórios sozinhos.
 * **Manutenção e Otimização:** Correção de bugs, ajustes de layout e integrações de API.
   
-   🌐 **Confira meu Portfólio:** [motacodes.netlify.app](https://motacodes.netlify.app)
 
 ### 🛠️ Minhas Ferramentas e Tecnologias:
 
