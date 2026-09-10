@@ -29,4 +29,4 @@ Sou estudante de Ciência da Computação e atuo como freelancer desenvolvendo s
 ### 📬 Vamos conversar sobre o seu projeto?
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511982901429?text=Ol%C3%A1%2C%20Mota!%20Vim%20pelo%20seu%20GitHub%20e%20gostaria%20de%20conversar.)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN-AQUI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rianmota59294a348)
