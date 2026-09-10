@@ -10,6 +10,8 @@ Sou estudante de Ciência da Computação e atuo como freelancer desenvolvendo s
 * **Landing Pages e Sites Institucionais:** Focados em conversão, mobile-first e carregamento ultrarrápido.
 * **Automações de Processos:** Scripts que cruzam planilhas, disparam alertas e geram relatórios sozinhos.
 * **Manutenção e Otimização:** Correção de bugs, ajustes de layout e integrações de API.
+  
+   🌐 **Confira meu Portfólio:** [motacodes.netlify.app](https://motacodes.netlify.app)
 
 ### 🛠️ Minhas Ferramentas e Tecnologias:
 
